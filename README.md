@@ -1,7 +1,6 @@
 <h1 align="center">Spotify Project</h1>
 
 ### Project Overview
-This project is part of my Master's program: "Machine Learning I".
 
 Spotify's music streaming service allows users to create personalized playlists and manage family accounts.  
 Due to a server hack, data regarding `user` and `top_year` for some songs were deleted.  
