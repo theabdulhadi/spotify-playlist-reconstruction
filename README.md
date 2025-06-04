@@ -399,7 +399,3 @@ We create a short snippet of code that create a csv for every user and top_year 
 <h1 align="center">Conclusion</h1>
 
 This project demonstrates an approach to reconstructing playlists based on various song characteristics and user preferences. While the model performs reasonably well, there is still potential for improvement by refining the features or tuning the model further.
-
-## Contributors
-This project was developed as part of a team of four.  
-While the work was collaborative, the final model and implementation, which achieved the best accuracy (above 40%), were developed and executed by me.
